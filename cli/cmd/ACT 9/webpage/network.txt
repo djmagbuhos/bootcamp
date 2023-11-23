@@ -1,0 +1,70 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-JIPL8C5
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe 2.5GbE Family Controller #2
+   Physical Address. . . . . . . . . : 24-4B-FE-CC-75-58
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:4450:4766:c700::1(Preferred) 
+   Lease Obtained. . . . . . . . . . : Thursday, November 9, 2023 7:59:29 AM
+   Lease Expires . . . . . . . . . . : Sunday, November 12, 2023 7:59:31 AM
+   IPv6 Address. . . . . . . . . . . : 2001:4450:4766:c700:2a5:844:fd76:d148(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2001:4450:4766:c700:9c62:2897:58e5:e3e6(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::25ed:16c6:282f:706c%16(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.38(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, November 6, 2023 2:34:22 PM
+   Lease Expires . . . . . . . . . . : Friday, November 10, 2023 7:59:31 AM
+   Default Gateway . . . . . . . . . : fe80::1%16
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 337923070
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-9A-F8-E6-24-4B-FE-CC-75-58
+   DNS Servers . . . . . . . . . . . : fe80::1%16
+                                       192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz #2
+   Physical Address. . . . . . . . . : 6C-6A-77-E2-4C-C6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 6C-6A-77-E2-4C-C7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 6E-6A-77-E2-4C-C6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 6C-6A-77-E2-4C-CA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes

@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(190, 190, 190); 
+    font-family:Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#h1_aboutme {
+    color: red
+}
+
+.h1_education {
+    color: purple !important;
+}
+
+div > p {
+    font-style:italic
+}

@@ -1,0 +1,11 @@
+td {
+    border: 1px solid black;
+    background-color: red;
+  }
+  .block * {
+    display: block;
+  }
+  .border-collapse {
+    border-collapse: collapse;
+    margin: 0;
+  }

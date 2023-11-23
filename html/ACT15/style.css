@@ -1,0 +1,117 @@
+body {
+    font-family: "Comic Sans MS", "cursive";
+    margin: 0px;
+    padding: 0px;
+}
+
+#navtable {
+    background-color: rgb(70, 130, 180); 
+    color: white; width: 100%; 
+    text-align:center; 
+    padding: 10px 50px 10px 50px;
+}
+
+#div1 {
+    text-align:center
+}
+
+#bchuchlogo {
+    margin-bottom: 0px;
+}
+
+#pastor {
+    width: 300px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+#hdingministries {
+    color: rgb(70, 130, 180); 
+    margin-top: 0px;
+}
+
+#firstp {
+    margin-bottom: 0px
+    
+}
+
+#secondp {
+    margin-top: 0px; 
+    margin-bottom 0px;
+}
+
+#div2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: auto;
+    text-align:left;
+
+}
+
+#hdfreehuell {
+    color: rgb(70, 130, 180); 
+    margin-bottom: 0px
+}
+
+#p1freehuell {
+    margin-bottom: 0px; 
+    margin-top: 0px;
+}
+
+#p2freehuell {
+    margin-top: 0px;
+}
+
+#freehuelllink {
+    color: rgb(255, 0, 216); 
+    text-decoration: underline;
+}
+
+#batch2div {
+    display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            margin:auto;
+            text-align:center;
+}
+
+#imgcross {
+    width: 150px;
+    margin-right: 115px;
+}
+
+#hotherministries {
+    margin-left: 60px;
+}
+
+
+#ul1 {
+    list-style-position: inside;
+}
+
+#imgcross2 {
+    width: 150px;
+    margin-left: 115px;
+}
+
+#footer {
+    font-family: "Comic Sans MS", "cursive";
+    color: rgb(160, 160, 160); 
+    text-align: center;
+}
+
+#fpforentertainment {
+    margin-top: 140px;
+}
+
+.footerlinks {
+    color: rgb(160, 160, 160);
+}
+
+#pfooter {
+    font-size: 70%;
+    color: red;
+    margin-right: 50%;
+    text-align: left;
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voting</title>
+</head>
+<body>
+    <h1>Voter Registration</h1>
+    <form>
+        <label for="first_name">First Name: </label>
+        <input type="text"placeholder="Type your first name here." id="first_name"/><br />
+
+        <label for="last_name">Last Name: </label>
+        <input type="text"placeholder="Type your last name here." id="last_name" /><br />
+
+        <label for="email_address">Email Address: </label>
+        <input type="email" placeholder="ex. jdelacruz@yahoo.com" id="email_address" /><br />
+        <label for="pw">Password: </label>
+        <input type="password"placeholder="atleast 8 characters." id="pw"/><br />
+
+        <label for="confirm_pw">Confirm Password: </label>
+        <input type="password"placeholder="re-enter password." id="confirm_pw"/><br />
+        
+        <label for="birthdate">Birthdate: </label>
+        <input type="date" id="birthdate"/><br />
+
+        <label for="civil_status">Civil Status</label>
+        <select name="civil_status" id="civil_status">
+            <option disabled selected>Select one...</option>
+            <option value="Single">Single</option>
+            <option value="Married">Married</option>
+            <option value="separated">Separated</option>
+            <option value="widowed">Widowed</option>
+            <option value="other">Other</option>
+            <br />
+        </select>
+
+        <label for="no_of_children">Number of children: </label>
+        <input type="number" placeholder="ex. 2" value="0" id="no_of_children" min="0" /><br />
+
+        <label for="excitement">How are you excited to vote? </label>
+        <input type="range" id="excitement" /><br />
+
+        <label for="pic_voter_id">Upload picture of voter ID</label>
+        <input type="file" id="pic_voter_id" />
+        <input type="submit" /><br />
+
+        <lavel>Driver's License</lavel>
+        <input type="text" id="driver_license" minlength="13" maxlength="13" placeholder="ex. E12-00-00-000000" required /><br />
+
+        <label for="feedback">Provide feedback on the registration process:</label><br />
+        <textarea placeholder="Enter feedback here..." rows="5" cols="30"></textarea><br />
+
+        <input type="submit" value="Submit Registration Form" /><br />
+
+
+
+    </form>
+
+
+    <h1>Your Ballot</h1>
+    <form>
+    <h2>Your President</h2>
+
+    
+    <input type="radio" id="president_vg" name="president" />
+    <label for="president_vg">Van Gogh</label><br />
+
+    
+    <input type="radio" id="president_davinci" name="president" />
+    <label for="president_davinci">Leonardo da Vinci</label><br />
+
+    
+    <input type="radio" id="president_jluna" name="president" checked/>
+    <label for="president_jluna">Juan Luna</label><br />
+
+    <h2>Vice President</h2>
+    
+    <input type="radio" name="vpresident" id="vp_jill" />
+    <label for="vp_jill">Jill Valentine</label><br />
+
+    <input type="radio" name="vpresident" id="vp_claire" />
+    <label for="vp_claire">Claire Redfield</label><br />
+
+    <h2>Senator</h2>
+    <input type="checkbox" name="senator1" value="jill_valentine" id="senator1" />
+    <label for="senator1">Jill Valentine</label></br>
+
+    <input type="checkbox" name="senator2" value="claire_redfield" id="senator2" />
+    <label for="senator1">Claire Redfield</label></br>
+
+    <input type="checkbox" name="senator3" value="ada_wong" id="senator3" />
+    <label for="senator1">Ada Wong</label></br>
+
+    <input type="checkbox" name="senator4" value="tifa_lockhart" id="senator4" />
+    <label for="senator1">Tifa Lockhart</label></br>
+
+    <input type="checkbox" name="senator5" value="aerith_gb" id="senator5" />
+    <label for="senator1">Aerith Gainsborough</label></br>
+
+    <input type="checkbox" name="senator6" value="rias_gremory" id="senator6" />
+    <label for="senator1">Rias Gremory</label></br>
+
+    <input type="submit" value="Submit Ballot" />
+    </form>
+
+
+</body>
+</html>
